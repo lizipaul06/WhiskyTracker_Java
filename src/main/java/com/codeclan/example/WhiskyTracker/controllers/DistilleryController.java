@@ -4,10 +4,7 @@ import com.codeclan.example.WhiskyTracker.repositories.DistilleryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping(value = "/distilleries")
@@ -16,7 +13,17 @@ public class DistilleryController {
     @Autowired
     DistilleryRepository distilleryRepository;
 
-    @GetMapping
+    @GetMapping(value = "/distilleries")
+    public ResponseEntity findDistilleries(){
+        return new ResponseEntity(distilleryRepository.findAll(), HttpStatus.OK);
+    }
+
+    @GetMapping(value = "/{id}")
+    public ResponseEntity findDistilleryById(@RequestParam(name = "id" ) Long id){
+        return new ResponseEntity(distilleryRepository.findById(id), HttpStatus.OK);
+    }
+
+    @GetMapping(value = "regions")
     public ResponseEntity findDistilleryByRegion(@RequestParam(name = "region", required=false) String region){
         if(region != null){
             return new ResponseEntity(distilleryRepository.findByRegion(region), HttpStatus.OK);
