@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b10a3669-60be-4763-b96b-e2893498b463" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZwfldcLLUvayPMcsMPMC1oYRde" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.WhiskyTrackerApplication">
+    <configuration name="WhiskyTrackerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplication" />
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiskyTrackerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WhiskyTrackerApplication" />
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b10a3669-60be-4763-b96b-e2893498b463" name="Default Changelist" comment="" />
+      <created>1585755228092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585755228092</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1585765390395">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585765390395" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1585760424760" />
+    <state width="873" height="236" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1585764762104" />
+    <state width="873" height="236" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1585764279109" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1585765390393">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585765390393" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1585760424759" />
+    <state width="873" height="236" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1585764762103" />
+    <state width="873" height="236" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1585764279108" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1585765390391">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585765390391" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1585760424759" />
+    <state width="873" height="236" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1585764762102" />
+    <state width="873" height="236" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1585764279107" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1585765390394">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585765390394" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1585760424760" />
+    <state width="873" height="236" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1585764762103" />
+    <state width="873" height="236" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1585764279109" />
+  </component>
+</project>
